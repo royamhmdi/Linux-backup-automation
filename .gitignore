@@ -1,0 +1,32 @@
+# Backup outputs
+backups/
+backup_*/
+
+# Logs
+*.log
+
+# Manifest files
+backup_manifest.txt
+
+# Compressed archives
+*.tar
+*.tar.gz
+*.gz
+*.enc
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
