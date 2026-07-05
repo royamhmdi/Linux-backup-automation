@@ -64,6 +64,4 @@ Backup completed successfully.
 0 2 * * * /home/user/BackUp.sh /home/user/Documents txt /home/user/backups 7
 ```
 
-## Author
 
-Your Name
