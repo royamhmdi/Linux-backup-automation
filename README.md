@@ -185,6 +185,6 @@ files_backup.tar.gz.enc
 
 ## 👨‍💻 Author
 
-**Roya**
+**Roya Mohammadi :)**
 
 Linux Backup Automation Script — Operating Systems Course Project
